@@ -1,4 +1,4 @@
-# Random-Icon-ICO-Generator
+# Random Icon Generator
 Made by SadFud, Modded by Me
 
 ##### Full Compile Tutorial & Showcase:  
